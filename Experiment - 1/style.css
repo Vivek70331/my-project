@@ -1,7 +1,7 @@
 form{
     background-color: green;
-    width: 200px ;
-    height:200px;
+    width: 150px ;
+    height: 150px;
     border: 30px ridge black;
     border-radius:10px ;
     padding:50px;
@@ -11,8 +11,8 @@ form{
 body{
     background-color:red;
    display:flex;
-   flex-direction:column;
+    flex-direction:column;
    justify-content:space-around;
-   align-content:first baseline;
+   align-content:first baseline; 
 
 }
